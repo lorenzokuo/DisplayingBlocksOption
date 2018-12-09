@@ -1,0 +1,64 @@
+/*CSS setting*/
+
+#wrapper{
+	height: 930px;
+	width: 950px;
+	background-color: #d3d3ab; /*borwn*/
+	display: inline-block;
+}
+#header{
+	margin: 20px;
+	height: 100px;
+	/*background-color: yellow;*/
+	display: block;
+}
+#leftimage{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 60px;
+	left: 200px;
+}
+
+.text{
+	display: inline-block;
+	margin-right: 100px;
+	margin-left: 300px;
+}
+
+#rightimage{
+	height: 62px;
+	width: 100px;
+	background-color: white;
+	position: absolute;
+	display: inline-block;
+	top: 60px;
+	left: 650px;
+}
+.avatar{
+	margin: 6px;
+	height: 160px;
+	width: 160px;
+	background-color: #8ab1f1; /*lightblue*/
+	border: 5px solid black;
+	display: inline-block;
+}
+.pic {
+	margin: 20px;
+	height: 120px;
+	width: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.avatar2{
+	margin: 6px;
+	height: 160px;
+	width: 160px;
+	background-color: #ec6b6f; /*lightred*/
+	border: 5px solid black;
+	display: inline-block;
+}
+img{
+	height: 75px;
+	width: 100px;
+}
